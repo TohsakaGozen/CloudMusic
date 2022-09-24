@@ -1,4 +1,5 @@
 # 网易云音乐 API
+卧槽，为了搞一个express重装了整个nodejs...捏妈妈的
 
 网易云音乐 Node.js API service
 
